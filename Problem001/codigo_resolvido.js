@@ -25,7 +25,7 @@ function readLine() {
 function simpleArraySum(ar) {
     var somaDosArrays = 0;
     for (var i = 0; i < ar.length; i++) {
-        somaDosArrays = somaDosArrays + ar[i];
+        somaDosArrays += ar[i];
     }
     return somaDosArrays
 }
