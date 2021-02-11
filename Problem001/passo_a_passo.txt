@@ -1,0 +1,8 @@
+1. Declare uma variável para armazenar a soma.
+2. Dê a essa variável um valor inicial (zero).
+3. Fazer um laço 'for' para passar por todos os elementos do array.
+4. A primeira instrução do 'for' define um valor inicial para sua variável 'i' (i = 0). 
+5. A segunda parte do 'for' (i < ar.length) define uma condição na qual o laço irá continue a percorrer o array, neste caso, ele será executado até o final.
+6. A terceira parte do 'for' (i ++) adicionará 1 ao contador, que é o código que faz o contador passar pelo array com incrementos de 1.
+7. O código dentro dos colchetes {somaDosArrays = somaDosArrays + ar [i]} pega o valor inicial de soma e adicionará todos os valores encontrados dentro do array a ele.
+8. Por fim a instrução return 'somaDosArrays' irá simplesmente retornar o valor da soma.
