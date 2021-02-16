@@ -1,0 +1,9 @@
+1. Declare uma variável para criar o array (com dois elementos).
+2. Dê a esse array valores iniciais (zero).
+3. Fazer um laço 'for' para executar a condição comparativa.
+4. A primeira instrução do 'for' define um valor inicial para a variável 'i' (i = 0). 
+5. A segunda parte do 'for' (i < a.length) define uma condição na qual o laço irá continue a percorrer o array, neste caso, ele será executado até o final.
+6. A terceira parte do 'for' (i ++) adicionará 1 ao contador, que é o código que faz o contador passar pelo array com incrementos de 1.
+7. A condição 'if' testará se o valor de 'a' é maior que 'b', caso verdadeiro, adicionar 1 ao primeiro elemento do array.
+8. Caso a primeira condição não for verdadeita, adicionar 1 ao segundo elemento do array.
+9. Por fim a instrução return 'pontos' irá simplesmente retornar o valor da array.
